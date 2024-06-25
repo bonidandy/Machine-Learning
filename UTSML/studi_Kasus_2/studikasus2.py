@@ -1,3 +1,7 @@
+#Bonifasius Dandy Krisnanda
+#20210801002
+#Teknik Informatika
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
